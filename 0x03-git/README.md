@@ -1,3 +1,1 @@
-Working with basic git commands      
-
-Pushing to branch and master respectively
+Working with basic git commands
